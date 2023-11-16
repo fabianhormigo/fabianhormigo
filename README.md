@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabianhormigo
-- 👀 I interested in data analysis , data manipulation, big data & Artificial Intelligence.Everything related to technicall software delevopement and data.
+- 👀 I interested in data analysis , data manipulation, big data & Artificial Intelligence.Everything related to technical software delevopement and data.
 - 🌱 I’m currently learning python and matlab programing
 - 💞️ I’m looking to collaborate on project related to simulation and data sciencie, economy models, sthocastics models...
   
